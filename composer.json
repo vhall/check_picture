@@ -2,7 +2,7 @@
     "name": "vhall/check_picture",
     "type": "project",
     "description": "check picture is green",
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "NelsonKing",
