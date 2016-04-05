@@ -1,0 +1,16 @@
+{
+    "name": "vhall/check_picture",
+    "description": "check picture is green",
+    "authors": [
+        {
+            "name": "NelsonKing",
+            "email": "yan.gao@vhall.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "CheckPicture": "src/"
+        }
+    }    
+}
