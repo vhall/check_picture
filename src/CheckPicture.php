@@ -57,7 +57,8 @@ class CheckPicture
                 }
             }
         } catch (Exception $e) {
-            print_r($e);
+            return false;
+            // print_r($e);
         }
     }
 }
